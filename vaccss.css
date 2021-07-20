@@ -1,0 +1,52 @@
+
+.one{
+background:DarkBlue;
+}
+ #two{
+color:white;
+}
+a.li:link,a.li:visited{
+border:1px solid yellow;
+background:yellow;
+border-radius:10px;
+text-decoration:none;
+color:DarkBlue;
+padding:10px;
+}
+a.li:hover{
+background:DarkBlue;
+color:yellow;
+border-radius:10px;
+text-decoration:none;
+padding:10px;
+}
+.y
+{
+border:2px solid black;
+background:white;
+color:black;
+width:100%;
+height:100%;
+padding:30px 10px 30px 10px;
+margin-bottom:50px;
+}
+a.three:link,a.three:visited{
+text-decoration:none;
+color:black;
+
+}
+
+.y:hover{
+border:3px solid yellow;
+border-radius:10px;
+}
+a.lii:hover{
+background:DarkBlue;
+color:yellow;
+border-radius:10px;
+text-decoration:none;
+padding:10px;
+}
+#qu{
+color:red;
+}

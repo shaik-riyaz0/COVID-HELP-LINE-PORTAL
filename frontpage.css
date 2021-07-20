@@ -1,0 +1,165 @@
+#f {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+opacity:1.2;
+}
+#s{
+color:white;
+font-size:60;
+font-family:Times New Roman;
+}
+#t{
+color:white;
+font-size:20;
+font-family:Times New Roman;
+text-align: justify;
+text-justify: inter-word;
+}
+i{
+color:red;
+font-size:30;
+}
+label{
+color:green;
+font-size:18;
+}
+a{
+text-decoration:none;
+}
+div{
+background-color:white;
+
+}
+#d{
+background-image:url('back.jpg');
+}
+a.one:link{
+font-size:150%;
+
+}
+a.one:visited{
+font-size:40%;
+color:grey;
+
+
+}
+a.one:hover{
+color:black;
+font-size:170%;
+}
+a.one:active{
+color:LightSlateGray;
+font-size:100%;
+}
+a.two:link{
+font-size:150%;
+border:1px solid grey;
+border-radius:5px;
+background:SeaShell;
+color:grey;
+}
+a.two:visited{
+font-size:40%;
+color:grey;
+border:1px solid;
+border-radius:5px;
+background:SeaShell;
+
+
+}
+a.two:hover{
+color:green;
+font-size:170%;
+}
+a.two:active{
+color:LightSlateGray;
+font-size:100%;
+}
+a.three:link{
+font-size:150%;
+border:1px solid grey;
+border-radius:5px;
+background:SeaShell;
+color:grey;
+}
+a.three:visited{
+font-size:40%;
+color:grey;
+border:1px solid grey;
+border-radius:5px;
+background:SeaShell;
+}
+a.three:hover{
+color:CornflowerBlue;
+font-size:170%;
+}
+a.three:active{
+color:LightSlateGray;
+font-size:100%;
+}
+a.four:link{
+font-size:150%;
+border:1px solid grey;
+border-radius:5px;
+background:SeaShell;
+}
+a.four:visited{
+font-size:40%;
+color:grey;
+background:SeaShell;
+border:1px solid grey;
+border-radius:5px;
+}
+a.four:hover{
+color:HotPink;
+font-size:170%;
+}
+a.four:active{
+color:LightSlateGray;
+font-size:100%;
+}
+a.five:link{
+font-size:150%;
+border:1px solid grey;
+border-radius:5px;
+background:SeaShell;
+}
+a.five:visited{
+font-size:40%;
+color:grey;
+border:1px solid grey;
+border-radius:5px;
+background:SeaShell;
+}
+a.five:hover{
+color:Fuchsia;
+font-size:170%;
+}
+a.five:active{
+color:LightSlateGray;
+font-size:100%;
+}
+a.six:link{
+font-size:150%;
+border:1px solid grey;
+border-radius:5px;
+background:SeaShell;
+}
+a.six:visited{
+font-size:40%;
+color:grey;
+border:1px solid grey;
+border-radius:5px;
+background:SeaShell;
+}
+a.six:hover{
+color:SteelBlue;
+font-size:170%;
+}
+a.six:active{
+color:LightSlateGray;
+font-size:100%;
+}
+

@@ -1,0 +1,136 @@
+body{
+background-image:url('vacs.jpg');
+background-position:center;
+background-size:cover;
+font-family:sans-serif;
+margin-top:40px;
+}
+.l{
+color:red;
+}
+#one{
+color:CadetBlue;
+font-size:20px;
+}
+
+.q{
+background-color:rgb(0,0,0,0.5);
+width:50%;
+height:100%;
+padding:14px;
+margin: 30px auto;
+border-radius:10px;
+
+}
+#one{
+width:600px;
+
+border:none;
+outline:none;
+color:DarkCyan;
+font-size:18px;
+margin-bottom:16px;
+margin-left:25px;
+margin-top:30px;
+}
+
+
+#p
+{
+width:800px;
+background-color:rgb(0,0,0,6);
+margin:auto;
+color:#ffffff;
+padding:10px 0px 10px 0px;
+text-align:center;
+border-radius:15px 15px 0px 0px;
+}
+.n{
+position:relative;
+left:200px;
+top:-1px;
+line-height:40px;
+border-radius:6px;
+padding:0 10px;
+font-size:18px;
+}
+.a{
+position:relative;
+left:280px;
+top:-25px;
+border-radius:6px;
+padding:0 14px;
+font-size:18px;
+width:250px;
+}
+.s{
+position:relative;
+left:180px;
+top:-4px;
+border-radius:6px;
+padding:0 14px;
+font-size:18px;
+width:250px;
+}
+.ph
+{
+position:relative;
+left:110px;
+top:-4px;
+border-radius:6px;
+padding:0 14px;
+font-size:10px;
+width:50px;
+}
+.pho{
+position:relative;
+left:110px;
+top:-4px;
+border-radius:6px;
+padding:0 14px;
+font-size:18px;
+width:250px;
+}
+.aa{
+position:relative;
+left:100px;
+top:-4px;
+border-radius:6px;
+padding:0 14px;
+font-size:18px;
+width:250px;
+}
+.e{
+position:relative;
+left:190px;
+top:-4px;
+border-radius:6px;
+padding:0 14px;
+font-size:18px;
+width:250px;
+}
+button{
+background-color:DarkCyan;
+display:block;
+margin:20px 0px 0px 20px;
+text-align:center;
+border-radius:12px;
+border:1px solid #366473;
+padding:14px 110px;
+outline:none;
+color:white;
+cursor:pointer;
+transition:0.25px;
+}
+button:hover{
+background-color:DodgerBlue
+}
+.ge{
+position:relative;
+left:180px;
+top:-4px;
+border-radius:6px;
+padding:0 14px;
+font-size:18px;
+width:250px;
+}

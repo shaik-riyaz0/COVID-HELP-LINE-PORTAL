@@ -1,0 +1,109 @@
+#k{
+font-size:20px;
+border:1px solid;
+border-radius:10px;
+padding:2px;
+text-align: justify;
+}
+.l{
+border:1px solid red;
+border-radius:20px;
+width:15%;
+font-size:20px;
+background:white;
+padding:8px;
+margin:9px;
+}
+a.l:link,a.l:visited{
+text-decoration:none;
+color:black;
+}
+a.l:hover{
+background:black;
+color:white;
+}
+#a{
+font-size:20px;
+text-align: justify;
+}
+#b{
+font-size:20px;
+text-align: justify;
+}
+#c{
+font-size:20px;
+text-align: justify;
+}
+
+.l span {
+  cursor: pointer;
+  
+  position: relative;
+  transition: 0.5s;
+}
+
+.l span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.l:hover span {
+  padding-right: 25px;
+}
+
+.l:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+.dropdown{
+display:flex;
+justify-content:space-around;
+align-items:center;
+width:100%;
+margin:auto;
+
+}
+.products,.project{
+position:relative;
+
+}
+
+.project ul,.products ul{
+position:absolute;
+margin-top:10px;
+width:200px;
+height:200px;
+justify-content:center;
+flex-direction:column;
+opacity:0;
+pointer-events:none;
+transform:translateY(-10px);
+transition:all 0.4s ease;
+
+}
+.project button:focus + ul{
+opacity:1;
+pointer-events:all;
+}
+.products button:focus + ul{
+opacity:1;
+pointer-events:all;
+}
+button{
+font-size:20;
+border-radius:20px;
+background:rgb(0,128,0);
+}
+
+//.first{
+//background:Bisque;
+//}
+li{
+background:red;
+}
